@@ -39,7 +39,7 @@
     </ItemGroup>
     
     <ItemGroup>
-        <PackageReference Include="Polyfill" Version="7.9.1">
+        <PackageReference Include="Polyfill" Version="7.16.0">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
@@ -51,15 +51,15 @@
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="Meziantou.Analyzer" Version="2.0.184">
+        <PackageReference Include="Meziantou.Analyzer" Version="2.0.186">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="Roslynator.Analyzers" Version="4.12.10">
+        <PackageReference Include="Roslynator.Analyzers" Version="4.12.11">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="SonarAnalyzer.CSharp" Version="10.4.0.108396">
+        <PackageReference Include="SonarAnalyzer.CSharp" Version="10.6.0.109712">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
         </PackageReference>
